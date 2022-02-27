@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto Slab', 'Serif';
+    color: #1c1c1c;
+}
+
+.cover{
+    width: 1500px;
+    margin: 150px auto;
+    
+}
+
+.Login {
+   width: 950px;
+   height: 1100px;
+   background-color: #f2ccc9;
+   border-radius: 40px 0px 0px 40px;
+   background-image: url("Image/buys.png");
+   background-size: cover;
+   background-position: center;
+   float: left;
+}
+   
+.logo {
+    text-align: center;
+}
+
+.ok {
+    width: 550px;
+    height: 1100px;
+    float: left;
+    background-image: linear-gradient( rgb(225, 225, 225),rgb(238, 210, 52));
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 0px 40px 40px 0px;
+  
+}
